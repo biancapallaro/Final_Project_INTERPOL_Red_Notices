@@ -1,0 +1,434 @@
+[
+    {
+        "forename": "YHONATAN",
+        "date_of_birth": "1984/01/19",
+        "entity_id": "2020/48092",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "DANIEL ROSARIO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-48092"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-48092/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-48092/images/61853811"
+            }
+        }
+    },
+    {
+        "forename": "JOEL",
+        "date_of_birth": "1983/04/19",
+        "entity_id": "2020/49441",
+        "nationalities": [
+            "AR",
+            "DO"
+        ],
+        "name": "RAMIREZ JAVIER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-49441"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-49441/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-49441/images/61858657"
+            }
+        }
+    },
+    {
+        "forename": "JUAN CLEMENTE",
+        "date_of_birth": "1967/11/23",
+        "entity_id": "2020/5103",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "DE LA CRUZ HICIANO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-5103"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-5103/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-5103/images/61696529"
+            }
+        }
+    },
+    {
+        "forename": "MARIA ALTAGRACIA",
+        "date_of_birth": "1970/11/07",
+        "entity_id": "2019/124272",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "HENRIQUEZ MOTA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-124272"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-124272/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-124272/images/61647830"
+            }
+        }
+    },
+    {
+        "forename": "JAVIER",
+        "date_of_birth": "1988/10/24",
+        "entity_id": "2019/112618",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "PEREZ MENDOZA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-112618"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-112618/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-112618/images/61604064"
+            }
+        }
+    },
+    {
+        "forename": "JAVIER",
+        "date_of_birth": "1988/10/24",
+        "entity_id": "2019/112618",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "PEREZ MENDOZA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-112618"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-112618/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-112618/images/61604064"
+            }
+        }
+    },
+    {
+        "forename": "OLGA LIDIA",
+        "date_of_birth": "1974/06/20",
+        "entity_id": "2018/1137",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "ACOSTA ROSARIO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-1137"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-1137/images"
+            }
+        }
+    },
+    {
+        "forename": "DEIVY ANTONIO",
+        "date_of_birth": "1985/10/21",
+        "entity_id": "2018/1146",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "VALERIO CORONADO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-1146"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-1146/images"
+            }
+        }
+    },
+    {
+        "forename": "ARGENIS",
+        "date_of_birth": "1982/02/15",
+        "entity_id": "2017/254847",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "CONTRERAS GONZALEZ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-254847"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-254847/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-254847/images/60825989"
+            }
+        }
+    },
+    {
+        "forename": "MICHAEL",
+        "date_of_birth": "1988/08/18",
+        "entity_id": "2017/234783",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "MARI\u00d1EZ ROSARIO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-234783"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-234783/images"
+            }
+        }
+    },
+    {
+        "forename": "PEDRO ALEJANDRO",
+        "date_of_birth": "1981/11/26",
+        "entity_id": "2017/221588",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "CASTILLO PANIAGUA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-221588"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-221588/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-221588/images/60787703"
+            }
+        }
+    },
+    {
+        "forename": "ELIZABETH CLEYDY",
+        "date_of_birth": "1990/11/20",
+        "entity_id": "2017/4838",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "PERALTA MARTE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-4838"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-4838/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-4838/images/60288587"
+            }
+        }
+    },
+    {
+        "forename": "GILBERTO",
+        "date_of_birth": "1975/07/06",
+        "entity_id": "2016/92394",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "VENTURA CEBALLOS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-92394"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-92394/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-92394/images/60269995"
+            }
+        }
+    },
+    {
+        "forename": "JAVIER",
+        "date_of_birth": "1994/05/27",
+        "entity_id": "2016/69426",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "MORALES",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-69426"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-69426/images"
+            }
+        }
+    },
+    {
+        "forename": "MILCIADES",
+        "date_of_birth": "1966/12/10",
+        "entity_id": "2016/38456",
+        "nationalities": [
+            "DO",
+            "VE"
+        ],
+        "name": "DE JESUS SANTANA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-38456"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-38456/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-38456/images/60106523"
+            }
+        }
+    },
+    {
+        "forename": "DENNY",
+        "date_of_birth": "1980/10/06",
+        "entity_id": "2015/57425",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "MORENO MATEO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-57425"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-57425/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-57425/images/59877223"
+            }
+        }
+    },
+    {
+        "forename": "FELIX M.",
+        "date_of_birth": "1978/04/08",
+        "entity_id": "2013/25505",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "ARIAS-CRUZ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-25505"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-25505/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-25505/images/58757543"
+            }
+        }
+    },
+    {
+        "forename": "EMANUEL",
+        "date_of_birth": "1982/10/23",
+        "entity_id": "2012/349416",
+        "nationalities": [
+            "DO",
+            "US"
+        ],
+        "name": "SANTOS ROSARIO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-349416"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-349416/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-349416/images/58068955"
+            }
+        }
+    },
+    {
+        "forename": "RAIMUNDO",
+        "date_of_birth": "1971/02/24",
+        "entity_id": "2010/54293",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "REYNOSO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54293"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54293/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54293/images/54662489"
+            }
+        }
+    },
+    {
+        "forename": "AMBIORI",
+        "date_of_birth": "1982/11/15",
+        "entity_id": "2008/7887",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "CASTRO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-7887"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-7887/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-7887/images/61130026"
+            }
+        }
+    },
+    {
+        "forename": "JOSE",
+        "date_of_birth": "1969/04/20",
+        "entity_id": "2007/46573",
+        "nationalities": [
+            "DO"
+        ],
+        "name": "BORBON",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-46573"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-46573/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-46573/images/61149769"
+            }
+        }
+    },
+    {
+        "forename": "ZEESAN AHMED",
+        "date_of_birth": "1970",
+        "entity_id": "2005/39315",
+        "nationalities": [
+            "DO",
+            "BD"
+        ],
+        "name": "ZEESAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-39315"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-39315/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-39315/images/53349089"
+            }
+        }
+    }
+]

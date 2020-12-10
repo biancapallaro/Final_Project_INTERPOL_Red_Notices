@@ -1,0 +1,326 @@
+[
+    {
+        "forename": "MARINA",
+        "date_of_birth": "1986/09/27",
+        "entity_id": "2018/64298",
+        "nationalities": [
+            "KZ",
+            "RU"
+        ],
+        "name": "IUKHNOVETS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-64298"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-64298/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-64298/images/61117650"
+            }
+        }
+    },
+    {
+        "forename": "MARAT",
+        "date_of_birth": "1958/05/11",
+        "entity_id": "2018/33867",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "MAZHENOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-33867"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-33867/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-33867/images/61017210"
+            }
+        }
+    },
+    {
+        "forename": "RAVIL",
+        "date_of_birth": "1996/10/20",
+        "entity_id": "2017/7315",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "KHAKIMOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-7315"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-7315/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-7315/images/60298487"
+            }
+        }
+    },
+    {
+        "forename": "RUSLAN",
+        "date_of_birth": "1979/12/27",
+        "entity_id": "2012/13403",
+        "nationalities": [
+            "KZ",
+            "RU"
+        ],
+        "name": "SMAGULOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-13403"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-13403/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-13403/images/59941119"
+            }
+        }
+    },
+    {
+        "forename": "ADAM",
+        "date_of_birth": "1991/01/13",
+        "entity_id": "2015/48802",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "BURSAGOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-48802"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-48802/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-48802/images/59851035"
+            }
+        }
+    },
+    {
+        "forename": "SAKEN",
+        "date_of_birth": "1975/11/10",
+        "entity_id": "2012/4044",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "KANAPYANOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-4044"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-4044/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-4044/images/58632548"
+            }
+        }
+    },
+    {
+        "forename": "VALERIY",
+        "date_of_birth": "1961/04/14",
+        "entity_id": "2013/27456",
+        "nationalities": [
+            "KZ",
+            "RU"
+        ],
+        "name": "KUDRYAVTSEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-27456"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-27456/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-27456/images/58544295"
+            }
+        }
+    },
+    {
+        "forename": "SERGEY",
+        "date_of_birth": "1988/03/07",
+        "entity_id": "2012/310029",
+        "nationalities": [
+            "RU",
+            "KZ"
+        ],
+        "name": "LINNIK",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-310029"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-310029/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-310029/images/57051284"
+            }
+        }
+    },
+    {
+        "forename": "KRISTINA",
+        "date_of_birth": "1989/07/29",
+        "entity_id": "2012/306454",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "YAKUNINA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-306454"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-306454/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-306454/images/56994112"
+            }
+        }
+    },
+    {
+        "forename": "YERBOL",
+        "date_of_birth": "1968/06/02",
+        "entity_id": "2011/54161",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "MASHANOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-54161"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-54161/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-54161/images/56047269"
+            }
+        }
+    },
+    {
+        "forename": "SALMAN",
+        "date_of_birth": "1977/11/13",
+        "entity_id": "2011/48945",
+        "nationalities": [
+            "KZ",
+            "DE"
+        ],
+        "name": "BAKIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48945"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48945/images"
+            }
+        }
+    },
+    {
+        "forename": "RUSTEM",
+        "date_of_birth": "1962/07/02",
+        "entity_id": "2011/38526",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "TURSUNBAYEV (TURSUNBAEV)",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-38526"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-38526/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-38526/images/55558867"
+            }
+        }
+    },
+    {
+        "forename": "DAUREN",
+        "date_of_birth": "1977/10/29",
+        "entity_id": "2011/38946",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "TULEBAYEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-38946"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-38946/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-38946/images/55569090"
+            }
+        }
+    },
+    {
+        "forename": "NIKOLY",
+        "date_of_birth": "1974/05/26",
+        "entity_id": "2002/16525",
+        "nationalities": [
+            "KZ",
+            "RU",
+            "EE"
+        ],
+        "name": "PAVLYUK",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2002-16525"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2002-16525/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2002-16525/images/61336173"
+            }
+        }
+    },
+    {
+        "forename": "EMIL",
+        "date_of_birth": "1968/02/05",
+        "entity_id": "2003/19296",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "ZHARMUKHAMEDOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-19296"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-19296/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-19296/images/60959921"
+            }
+        }
+    },
+    {
+        "forename": "NURLAN KARLOVICH",
+        "date_of_birth": "1964/12/04",
+        "entity_id": "1995/18180",
+        "nationalities": [
+            "KZ"
+        ],
+        "name": "SMAGULOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1995-18180"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1995-18180/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1995-18180/images/52237491"
+            }
+        }
+    }
+]

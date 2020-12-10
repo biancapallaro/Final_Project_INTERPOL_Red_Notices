@@ -1,0 +1,62 @@
+[
+    {
+        "forename": "HASSAN AMON",
+        "date_of_birth": "1982/10/14",
+        "entity_id": "2018/5586",
+        "nationalities": [
+            "TZ"
+        ],
+        "name": "NGALAWA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-5586"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-5586/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-5586/images/60925374"
+            }
+        }
+    },
+    {
+        "forename": "EDWIN GEORGE",
+        "date_of_birth": "1983/06/22",
+        "entity_id": "2015/49498",
+        "nationalities": [
+            "TZ"
+        ],
+        "name": "MKINI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-49498"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-49498/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-49498/images/59852993"
+            }
+        }
+    },
+    {
+        "forename": "GOSBETH",
+        "date_of_birth": "1970",
+        "entity_id": "2004/8116",
+        "nationalities": [
+            "TZ"
+        ],
+        "name": "ATHUMANI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-8116"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-8116/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-8116/images/61544646"
+            }
+        }
+    }
+]

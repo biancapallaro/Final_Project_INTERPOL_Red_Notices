@@ -1,0 +1,42 @@
+[
+    {
+        "forename": "PAMELA",
+        "date_of_birth": "1981/12/05",
+        "entity_id": "2019/64467",
+        "nationalities": [
+            "ZM"
+        ],
+        "name": "GONDWE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-64467"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-64467/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-64467/images/61455721"
+            }
+        }
+    },
+    {
+        "forename": "SIBUSISO JOSEPH",
+        "date_of_birth": "1977/06/03",
+        "entity_id": "2015/49328",
+        "nationalities": [
+            "ZM"
+        ],
+        "name": "MWALE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-49328"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-49328/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-49328/images/59852410"
+            }
+        }
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "forename": "VARTAN SERGEEVITCH",
+        "date_of_birth": "1953/02/07",
+        "entity_id": "2008/28871",
+        "nationalities": [
+            "BY",
+            "RU"
+        ],
+        "name": "AVAKOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-28871"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-28871/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-28871/images/59432669"
+            }
+        }
+    },
+    {
+        "forename": "ANDREI",
+        "date_of_birth": "1973/10/13",
+        "entity_id": "2014/6986",
+        "nationalities": [
+            "BY"
+        ],
+        "name": "STANKEVICH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-6986"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-6986/images"
+            }
+        }
+    },
+    {
+        "forename": "ALEKSANDR",
+        "date_of_birth": "1984/08/21",
+        "entity_id": "2012/293604",
+        "nationalities": [
+            "BY"
+        ],
+        "name": "SHELEPOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-293604"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-293604/images"
+            }
+        }
+    }
+]

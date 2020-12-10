@@ -1,0 +1,84 @@
+[
+    {
+        "forename": "ABDALLAH",
+        "date_of_birth": "1963",
+        "entity_id": "2017/168434",
+        "nationalities": [
+            "SD"
+        ],
+        "name": "BANDA ABAKAER NOURAIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-168434"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-168434/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-168434/images/60911158"
+            }
+        }
+    },
+    {
+        "forename": "WAIL",
+        "date_of_birth": "1972/07/03",
+        "entity_id": "2016/46275",
+        "nationalities": [
+            "PL",
+            "SD"
+        ],
+        "name": "AWAD",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-46275"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-46275/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-46275/images/60133207"
+            }
+        }
+    },
+    {
+        "forename": "AHMED NUMAN ISAAC",
+        "date_of_birth": "1978/01/01",
+        "entity_id": "2010/13584",
+        "nationalities": [
+            "SD"
+        ],
+        "name": "RAHMA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-13584"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-13584/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-13584/images/54352047"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMED",
+        "date_of_birth": "1960/02/20",
+        "entity_id": "2007/55758",
+        "nationalities": [
+            "US",
+            "SD"
+        ],
+        "name": "AHMED",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-55758"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-55758/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-55758/images/61147218"
+            }
+        }
+    }
+]

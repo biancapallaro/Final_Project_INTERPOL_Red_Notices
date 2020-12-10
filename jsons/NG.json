@@ -1,0 +1,351 @@
+[
+    {
+        "forename": "BONIFACE UCHE",
+        "date_of_birth": "1964/03/07",
+        "entity_id": "2020/49463",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "EGBUE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-49463"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-49463/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-49463/images/61858692"
+            }
+        }
+    },
+    {
+        "forename": "JUDE",
+        "date_of_birth": "1973/08/11",
+        "entity_id": "2020/13389",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "UZOMA ENEH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-13389"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-13389/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-13389/images/61727838"
+            }
+        }
+    },
+    {
+        "forename": "JESSICA, ESOHE",
+        "date_of_birth": "1993/07/02",
+        "entity_id": "2018/102928",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "EDOSOMWAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-102928"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-102928/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-102928/images/61233926"
+            }
+        }
+    },
+    {
+        "forename": "MBUOTIDEM EDEM",
+        "date_of_birth": "1989/03/30",
+        "entity_id": "2019/43074",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "ASUQUO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43074"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43074/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43074/images/61385978"
+            }
+        }
+    },
+    {
+        "forename": "CHARLES CHINWEIKPE",
+        "date_of_birth": "1992/09/27",
+        "entity_id": "2019/43128",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "EZEKWEM",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43128"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43128/images"
+            }
+        }
+    },
+    {
+        "forename": "FESTUS CHINEDU",
+        "date_of_birth": "1985/05/29",
+        "entity_id": "2018/2422",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "EZEUNARA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-2422"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-2422/images"
+            }
+        }
+    },
+    {
+        "forename": "BENEDICT",
+        "date_of_birth": "1967/05/01",
+        "entity_id": "2017/7440",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "OKORO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-7440"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-7440/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-7440/images/60298974"
+            }
+        }
+    },
+    {
+        "forename": "MALAHI IKECHUCWU",
+        "date_of_birth": "1979/06/30",
+        "entity_id": "2016/78505",
+        "nationalities": [
+            "NG",
+            "AO"
+        ],
+        "name": "OBIDIOZOR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78505"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78505/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78505/images/60243377"
+            }
+        }
+    },
+    {
+        "forename": "NWOKORIE ALCACHI",
+        "date_of_birth": "1972/01/09",
+        "entity_id": "2016/78799",
+        "nationalities": [
+            "NG",
+            "AO"
+        ],
+        "name": "STANLEY",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78799"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78799/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78799/images/60244280"
+            }
+        }
+    },
+    {
+        "forename": "AKACHI",
+        "date_of_birth": "1984/06/13",
+        "entity_id": "2016/78540",
+        "nationalities": [
+            "NG",
+            "AO"
+        ],
+        "name": "VITUS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78540"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78540/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-78540/images/60243457"
+            }
+        }
+    },
+    {
+        "forename": "SIYUN SALISU",
+        "date_of_birth": "1978/11/02",
+        "entity_id": "2015/28198",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "MUCIYU LAULU",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28198"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28198/images"
+            }
+        }
+    },
+    {
+        "forename": "MARY",
+        "date_of_birth": "1973/04/01",
+        "entity_id": "2015/24916",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "EZE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-24916"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-24916/images"
+            }
+        }
+    },
+    {
+        "forename": "BOUHARI",
+        "date_of_birth": "1971/09/04",
+        "entity_id": "2015/13681",
+        "nationalities": [
+            "NE",
+            "NG"
+        ],
+        "name": "SALIF",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-13681"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-13681/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-13681/images/59733765"
+            }
+        }
+    },
+    {
+        "forename": "BUTCHANG TIMLOH",
+        "date_of_birth": "1988/11/25",
+        "entity_id": "2015/4893",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "NKEM",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-4893"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-4893/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-4893/images/59705035"
+            }
+        }
+    },
+    {
+        "forename": "IFAKEMI",
+        "date_of_birth": "1970/05/30",
+        "entity_id": "2013/18805",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "ADESINA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-18805"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-18805/images"
+            }
+        }
+    },
+    {
+        "forename": "DA COSTA FRANKLE AUSTINE",
+        "date_of_birth": "1963",
+        "entity_id": "2011/50742",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "COSTA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-50742"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-50742/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-50742/images/55942229"
+            }
+        }
+    },
+    {
+        "forename": "FESTUS",
+        "date_of_birth": "1965/06/26",
+        "entity_id": "2011/50822",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "OKROMI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-50822"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-50822/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-50822/images/55944689"
+            }
+        }
+    },
+    {
+        "forename": "UBIMAGO ANTHONY",
+        "date_of_birth": "1985/10/07",
+        "entity_id": "2010/11426",
+        "nationalities": [
+            "NG"
+        ],
+        "name": "ONETULE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-11426"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-11426/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-11426/images/59152847"
+            }
+        }
+    }
+]

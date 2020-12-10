@@ -1,0 +1,42 @@
+[
+    {
+        "forename": "ALISHER",
+        "date_of_birth": "1992/07/10",
+        "entity_id": "2019/29447",
+        "nationalities": [
+            "TM"
+        ],
+        "name": "ANNAKULIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-29447"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-29447/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-29447/images/61345165"
+            }
+        }
+    },
+    {
+        "forename": "ILMYRAT",
+        "date_of_birth": "1971/09/24",
+        "entity_id": "2014/55647",
+        "nationalities": [
+            "TM"
+        ],
+        "name": "ISHANGULIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-55647"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-55647/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-55647/images/59607905"
+            }
+        }
+    }
+]

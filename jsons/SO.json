@@ -1,0 +1,213 @@
+[
+    {
+        "forename": "MOHAMMED ABDI",
+        "date_of_birth": "1961/10/10",
+        "entity_id": "1998/12996",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "HERSI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-12996"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-12996/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-12996/images/60964869"
+            }
+        }
+    },
+    {
+        "forename": "AHMED MAHABUB",
+        "date_of_birth": "1986",
+        "entity_id": "2017/286230",
+        "nationalities": [
+            "SO",
+            "KE"
+        ],
+        "name": "GEDI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-286230"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-286230/images"
+            }
+        }
+    },
+    {
+        "forename": "FATUMA MOHAMED",
+        "date_of_birth": "1973/06/18",
+        "entity_id": "2013/836",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "ABDI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-836"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-836/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-836/images/58322863"
+            }
+        }
+    },
+    {
+        "forename": "ABDI JAMA",
+        "date_of_birth": "1968/01/01",
+        "entity_id": "2010/3555",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "ADAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-3555"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-3555/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-3555/images/54302177"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMAD AHMED",
+        "date_of_birth": "1983/02/18",
+        "entity_id": "2009/29083",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "HASSAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-29083"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-29083/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-29083/images/54208167"
+            }
+        }
+    },
+    {
+        "forename": "MAHAMUD ABDULLAHI",
+        "date_of_birth": "1935/07/08",
+        "entity_id": "2008/7769",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "ISSE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-7769"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-7769/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-7769/images/61132751"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMUD ABUKAR",
+        "date_of_birth": "1983/01/01",
+        "entity_id": "2008/2494",
+        "nationalities": [
+            "CA",
+            "SO"
+        ],
+        "name": "HAGI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-2494"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-2494/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-2494/images/61144272"
+            }
+        }
+    },
+    {
+        "forename": "AHMED",
+        "date_of_birth": "1970/01/01",
+        "entity_id": "2007/43326",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "HASSAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-43326"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-43326/images"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMED ABDI",
+        "date_of_birth": "1981/07/29",
+        "entity_id": "2004/5425",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "GULED",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-5425"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-5425/images"
+            }
+        }
+    },
+    {
+        "forename": "ALAS",
+        "date_of_birth": "1981/09/15",
+        "entity_id": "2004/5422",
+        "nationalities": [
+            "CA",
+            "SO"
+        ],
+        "name": "WARSAME",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-5422"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-5422/images"
+            }
+        }
+    },
+    {
+        "forename": "OMAR MOHAMED",
+        "date_of_birth": "1966/01/01",
+        "entity_id": "2001/20642",
+        "nationalities": [
+            "SO"
+        ],
+        "name": "MOALIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-20642"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-20642/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-20642/images/52625013"
+            }
+        }
+    }
+]

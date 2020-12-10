@@ -1,0 +1,22 @@
+[
+    {
+        "forename": "WYHRI",
+        "date_of_birth": "1971/07/02",
+        "entity_id": "2013/4157",
+        "nationalities": [
+            "AE"
+        ],
+        "name": "AL-QUBAISI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-4157"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-4157/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-4157/images/58380652"
+            }
+        }
+    }
+]

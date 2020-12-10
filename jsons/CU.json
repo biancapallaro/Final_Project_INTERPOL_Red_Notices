@@ -1,0 +1,141 @@
+[
+    {
+        "forename": "JOSE RICARDO",
+        "date_of_birth": "1956/07/06",
+        "entity_id": "2018/36558",
+        "nationalities": [
+            "PA",
+            "CU"
+        ],
+        "name": "TABARES ARIAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-36558"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-36558/images"
+            }
+        }
+    },
+    {
+        "forename": "SEINEL",
+        "date_of_birth": "1990/05/20",
+        "entity_id": "2017/288177",
+        "nationalities": [
+            "CU"
+        ],
+        "name": "FERNANDEZ CARMENATY",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-288177"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-288177/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-288177/images/60892882"
+            }
+        }
+    },
+    {
+        "forename": "MARIA EUG\u00caNIA",
+        "date_of_birth": "1943/09/06",
+        "entity_id": "2017/198995",
+        "nationalities": [
+            "CU"
+        ],
+        "name": "OLMES GARCIA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-198995"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-198995/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-198995/images/60745347"
+            }
+        }
+    },
+    {
+        "forename": "NIURKA",
+        "date_of_birth": "1964/07/24",
+        "entity_id": "2017/198727",
+        "nationalities": [
+            "CU"
+        ],
+        "name": "APOLINAR PEDRO SILVA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-198727"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-198727/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-198727/images/60744373"
+            }
+        }
+    },
+    {
+        "forename": "NELSON ALEJANDRO",
+        "date_of_birth": "1940/09/11",
+        "entity_id": "2011/48140",
+        "nationalities": [
+            "CU",
+            "US"
+        ],
+        "name": "PEREZ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48140"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48140/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48140/images/55856109"
+            }
+        }
+    },
+    {
+        "forename": "ROBERTO",
+        "date_of_birth": "1972/03/20",
+        "entity_id": "2011/25406",
+        "nationalities": [
+            "CU"
+        ],
+        "name": "CRESPO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-25406"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-25406/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-25406/images/55319934"
+            }
+        }
+    },
+    {
+        "forename": "JULIO",
+        "date_of_birth": "1960/07/22",
+        "entity_id": "2009/16847",
+        "nationalities": [
+            "CU"
+        ],
+        "name": "BONACHEA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-16847"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-16847/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-16847/images/54188963"
+            }
+        }
+    }
+]

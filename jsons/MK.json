@@ -1,0 +1,43 @@
+[
+    {
+        "forename": "DZEMSIT",
+        "date_of_birth": "1968/05/08",
+        "entity_id": "2010/21746",
+        "nationalities": [
+            "MK"
+        ],
+        "name": "DEHARI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-21746"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-21746/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-21746/images/59529967"
+            }
+        }
+    },
+    {
+        "forename": "AQUIF",
+        "date_of_birth": "1980/12/16",
+        "entity_id": "2009/24461",
+        "nationalities": [
+            "MK",
+            "US"
+        ],
+        "name": "AJRO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-24461"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-24461/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-24461/images/54205348"
+            }
+        }
+    }
+]

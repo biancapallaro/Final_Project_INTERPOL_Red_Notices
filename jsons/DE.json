@@ -1,0 +1,344 @@
+[
+    {
+        "forename": "MOHAMED",
+        "date_of_birth": "1999/03/01",
+        "entity_id": "2020/73418",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "REMMO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73418"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73418/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73418/images/61942145"
+            }
+        }
+    },
+    {
+        "forename": "ABDUL MAJED",
+        "date_of_birth": "1999/03/01",
+        "entity_id": "2020/73425",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "REMMO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73425"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73425/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73425/images/61942168"
+            }
+        }
+    },
+    {
+        "forename": "BURKHARD",
+        "date_of_birth": "1968/09/01",
+        "entity_id": "1994/12066",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "GARWEG",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1994-12066"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1994-12066/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1994-12066/images/61797556"
+            }
+        }
+    },
+    {
+        "forename": "ERNST VOLKER WILHELM",
+        "date_of_birth": "1954/10/30",
+        "entity_id": "1991/15958",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "STAUB",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1991-15958"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1991-15958/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1991-15958/images/61797507"
+            }
+        }
+    },
+    {
+        "forename": "DANIELA MARIE LUISE",
+        "date_of_birth": "1958/11/05",
+        "entity_id": "1993/27493",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "KLETTE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1993-27493"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1993-27493/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1993-27493/images/59558401"
+            }
+        }
+    },
+    {
+        "forename": "MLADEN",
+        "date_of_birth": "1974/08/05",
+        "entity_id": "2019/16566",
+        "nationalities": [
+            "HR",
+            "DE",
+            "BA"
+        ],
+        "name": "DZIDIC",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-16566"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-16566/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-16566/images/61279482"
+            }
+        }
+    },
+    {
+        "forename": "JULIE ELIZABETH",
+        "date_of_birth": "1954/04/21",
+        "entity_id": "2016/64278",
+        "nationalities": [
+            "DE",
+            "GY"
+        ],
+        "name": "RAVEL",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-64278"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-64278/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-64278/images/60197310"
+            }
+        }
+    },
+    {
+        "forename": "ROLAND",
+        "date_of_birth": "1969/07/21",
+        "entity_id": "2015/84387",
+        "nationalities": [
+            "US",
+            "DE"
+        ],
+        "name": "AGUILAR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-84387"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-84387/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-84387/images/59967287"
+            }
+        }
+    },
+    {
+        "forename": "ANDREAS",
+        "date_of_birth": "1966/11/29",
+        "entity_id": "2013/8430",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "DEWOR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-8430"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-8430/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-8430/images/59367537"
+            }
+        }
+    },
+    {
+        "forename": "JURGEN ANDREAS",
+        "date_of_birth": "1960/04/12",
+        "entity_id": "1998/33143",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "ZELL",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-33143"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-33143/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-33143/images/58166428"
+            }
+        }
+    },
+    {
+        "forename": "VLADIMIR",
+        "date_of_birth": "1941/07/05",
+        "entity_id": "2004/35302",
+        "nationalities": [
+            "DE",
+            "RU"
+        ],
+        "name": "BEYLIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-35302"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-35302/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-35302/images/58287526"
+            }
+        }
+    },
+    {
+        "forename": "SALMAN",
+        "date_of_birth": "1977/11/13",
+        "entity_id": "2011/48945",
+        "nationalities": [
+            "KZ",
+            "DE"
+        ],
+        "name": "BAKIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48945"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48945/images"
+            }
+        }
+    },
+    {
+        "forename": "IVAN",
+        "date_of_birth": "1959/08/25",
+        "entity_id": "2010/1482",
+        "nationalities": [
+            "RU",
+            "DE"
+        ],
+        "name": "LAUTENSHLEGER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-1482"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-1482/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-1482/images/54291882"
+            }
+        }
+    },
+    {
+        "forename": "HELMUTH WOLFGANG",
+        "date_of_birth": "1954/03/08",
+        "entity_id": "2005/51654",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "DR SCHUSTER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-51654"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-51654/images"
+            }
+        }
+    },
+    {
+        "forename": "JURGEN",
+        "date_of_birth": "1956/06/18",
+        "entity_id": "2005/17230",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "REISENER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-17230"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-17230/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-17230/images/61507760"
+            }
+        }
+    },
+    {
+        "forename": "SAID",
+        "date_of_birth": "1975/07/15",
+        "entity_id": "2001/41909",
+        "nationalities": [
+            "DE",
+            "MA"
+        ],
+        "name": "BAHAJI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-41909"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-41909/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-41909/images/52695036"
+            }
+        }
+    },
+    {
+        "forename": "ANGELA",
+        "date_of_birth": "1940/04/23",
+        "entity_id": "1972/538",
+        "nationalities": [
+            "DE"
+        ],
+        "name": "LUTHER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1972-538"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1972-538/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1972-538/images/53063555"
+            }
+        }
+    }
+]

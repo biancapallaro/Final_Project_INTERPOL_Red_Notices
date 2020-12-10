@@ -1,0 +1,22 @@
+[
+    {
+        "forename": "AMARA",
+        "date_of_birth": "1965/03/15",
+        "entity_id": "2017/169350",
+        "nationalities": [
+            "GN"
+        ],
+        "name": "CHERIF",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-169350"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-169350/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-169350/images/60669580"
+            }
+        }
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "forename": "FERENC",
+        "date_of_birth": "1979/11/27",
+        "entity_id": "2019/110606",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "SUTO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-110606"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-110606/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-110606/images/61598234"
+            }
+        }
+    },
+    {
+        "forename": "ALI",
+        "date_of_birth": "1985/12/24",
+        "entity_id": "2017/165700",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "KOZAK",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-165700"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-165700/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-165700/images/60649269"
+            }
+        }
+    },
+    {
+        "forename": "VIKTOR MIKLOS",
+        "date_of_birth": "1979/05/13",
+        "entity_id": "2016/6006",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "KOSZTADINOVSZKI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-6006"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-6006/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-6006/images/59995055"
+            }
+        }
+    },
+    {
+        "forename": "MARCELL",
+        "date_of_birth": "1992/11/23",
+        "entity_id": "2017/144632",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "CSEH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-144632"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-144632/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-144632/images/60597346"
+            }
+        }
+    },
+    {
+        "forename": "CSABA",
+        "date_of_birth": "1978/11/11",
+        "entity_id": "2017/12494",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "NEMETH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-12494"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-12494/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-12494/images/60317639"
+            }
+        }
+    },
+    {
+        "forename": "ILDIKO",
+        "date_of_birth": "1988/07/19",
+        "entity_id": "2017/167505",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "DUDAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-167505"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-167505/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-167505/images/60654901"
+            }
+        }
+    },
+    {
+        "forename": "ZSOLT",
+        "date_of_birth": "1966/10/10",
+        "entity_id": "2019/128531",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "KISMARTON",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-128531"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-128531/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-128531/images/61663656"
+            }
+        }
+    },
+    {
+        "forename": "ZOLTAN",
+        "date_of_birth": "1967/01/08",
+        "entity_id": "2019/83848",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "PLANK",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-83848"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-83848/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-83848/images/61515925"
+            }
+        }
+    },
+    {
+        "forename": "LAJOS",
+        "date_of_birth": "1967/01/20",
+        "entity_id": "2019/52141",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "VARGA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-52141"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-52141/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-52141/images/61417168"
+            }
+        }
+    },
+    {
+        "forename": "GERGELY TIBOR",
+        "date_of_birth": "1973/06/06",
+        "entity_id": "2018/83810",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "KISZELY",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-83810"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-83810/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-83810/images/61176473"
+            }
+        }
+    },
+    {
+        "forename": "MARIA ILONA",
+        "date_of_birth": "1979/08/24",
+        "entity_id": "2017/144427",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "LAKATOS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-144427"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-144427/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-144427/images/60596804"
+            }
+        }
+    },
+    {
+        "forename": "ADRIAN FERENC",
+        "date_of_birth": "1980/07/15",
+        "entity_id": "2004/31385",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "PATAKI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-31385"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-31385/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-31385/images/59671934"
+            }
+        }
+    },
+    {
+        "forename": "GABOR",
+        "date_of_birth": "1995/03/28",
+        "entity_id": "2015/64393",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "MATE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-64393"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-64393/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-64393/images/61852220"
+            }
+        }
+    },
+    {
+        "forename": "ISTVAN",
+        "date_of_birth": "1959/11/21",
+        "entity_id": "2013/25433",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "KOVACS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-25433"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-25433/images"
+            }
+        }
+    },
+    {
+        "forename": "TAMAS GABOR",
+        "date_of_birth": "1970/09/18",
+        "entity_id": "2012/11979",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "TOTH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-11979"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-11979/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-11979/images/61801940"
+            }
+        }
+    },
+    {
+        "forename": "SZABOLCS",
+        "date_of_birth": "1980/11/21",
+        "entity_id": "2011/41034",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "SZEDRES",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-41034"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-41034/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-41034/images/59986864"
+            }
+        }
+    },
+    {
+        "forename": "JOZSEF",
+        "date_of_birth": "1969/03/22",
+        "entity_id": "2010/54524",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "LENDVAI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54524"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54524/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54524/images/54672147"
+            }
+        }
+    },
+    {
+        "forename": "ORSOLYA",
+        "date_of_birth": "1969/07/15",
+        "entity_id": "2010/54531",
+        "nationalities": [
+            "HU"
+        ],
+        "name": "SIPOS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54531"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54531/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-54531/images/54672469"
+            }
+        }
+    }
+]

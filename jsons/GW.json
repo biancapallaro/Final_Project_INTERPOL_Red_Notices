@@ -1,0 +1,19 @@
+[
+    {
+        "forename": "ALASSANA",
+        "date_of_birth": "1970/10/14",
+        "entity_id": "2015/63639",
+        "nationalities": [
+            "GW"
+        ],
+        "name": "DJALO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-63639"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-63639/images"
+            }
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "forename": "OMAR",
+        "date_of_birth": "1963/01/01",
+        "entity_id": "2013/52034",
+        "nationalities": [
+            "ML"
+        ],
+        "name": "HAMAHA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-52034"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-52034/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-52034/images/59153669"
+            }
+        }
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "forename": "KHABIBA",
+        "date_of_birth": "1965/02/11",
+        "entity_id": "2016/77642",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "RUZIEVA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-77642"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-77642/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-77642/images/60240359"
+            }
+        }
+    },
+    {
+        "forename": "RAMAZON",
+        "date_of_birth": "1966/01/08",
+        "entity_id": "2015/45901",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "ACHILDIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-45901"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-45901/images"
+            }
+        }
+    },
+    {
+        "forename": "AKRAM",
+        "date_of_birth": "1990/12/25",
+        "entity_id": "2020/32464",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "TANIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-32464"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-32464/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-32464/images/61795530"
+            }
+        }
+    },
+    {
+        "forename": "KHALIMKHON",
+        "date_of_birth": "1990/04/22",
+        "entity_id": "2020/30636",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "KHAMIDKHANOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-30636"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-30636/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-30636/images/61789133"
+            }
+        }
+    },
+    {
+        "forename": "HURIDDIN",
+        "date_of_birth": "1986/03/10",
+        "entity_id": "2015/14094",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "HOLMATOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-14094"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-14094/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-14094/images/59735393"
+            }
+        }
+    },
+    {
+        "forename": "BOBIRZHON",
+        "date_of_birth": "1982/09/09",
+        "entity_id": "2019/16617",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "MAKHBUBOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-16617"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-16617/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-16617/images/61279527"
+            }
+        }
+    },
+    {
+        "forename": "ANVARZHON",
+        "date_of_birth": "1975/11/28",
+        "entity_id": "2018/61392",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "FAZILDINOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-61392"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-61392/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-61392/images/61108604"
+            }
+        }
+    },
+    {
+        "forename": "MIRZAABDULLO",
+        "date_of_birth": "1989/04/09",
+        "entity_id": "2018/32488",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "SHOKOSIMOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-32488"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-32488/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-32488/images/61012379"
+            }
+        }
+    },
+    {
+        "forename": "ABAY",
+        "date_of_birth": "1981/09/29",
+        "entity_id": "2018/3409",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "KURBANBAEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-3409"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-3409/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-3409/images/60919531"
+            }
+        }
+    },
+    {
+        "forename": "ALIDZHON",
+        "date_of_birth": "1988/05/30",
+        "entity_id": "2016/90556",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "KHUSANOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-90556"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-90556/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-90556/images/60264079"
+            }
+        }
+    },
+    {
+        "forename": "FIRUZ",
+        "date_of_birth": "1984/07/12",
+        "entity_id": "2016/68212",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "AKHMEDJANOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-68212"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-68212/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-68212/images/60210623"
+            }
+        }
+    },
+    {
+        "forename": "OIBEK",
+        "date_of_birth": "1983/04/12",
+        "entity_id": "2016/22134",
+        "nationalities": [
+            "UZ",
+            "KG"
+        ],
+        "name": "DZHURABAEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-22134"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-22134/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-22134/images/60053428"
+            }
+        }
+    },
+    {
+        "forename": "BAKHTIER",
+        "date_of_birth": "1972/07/06",
+        "entity_id": "2016/22165",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "SAMIEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-22165"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-22165/images"
+            }
+        }
+    },
+    {
+        "forename": "ISLOM",
+        "date_of_birth": "1991/09/05",
+        "entity_id": "2015/5671",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "BAROTOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-5671"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-5671/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-5671/images/59707381"
+            }
+        }
+    },
+    {
+        "forename": "ULUGBEK",
+        "date_of_birth": "1974/05/28",
+        "entity_id": "2015/5954",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "SATTAROV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-5954"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-5954/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-5954/images/59708224"
+            }
+        }
+    },
+    {
+        "forename": "ZHASURBEK",
+        "date_of_birth": "1991/02/13",
+        "entity_id": "2014/67617",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "ISLAMOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-67617"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-67617/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-67617/images/59648650"
+            }
+        }
+    },
+    {
+        "forename": "FARRUKH",
+        "date_of_birth": "1986/04/13",
+        "entity_id": "2014/2911",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "TOSHMATOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-2911"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-2911/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-2911/images/59398551"
+            }
+        }
+    },
+    {
+        "forename": "ELDAR",
+        "date_of_birth": "1977/06/05",
+        "entity_id": "2009/11922",
+        "nationalities": [
+            "UZ"
+        ],
+        "name": "KHAMZIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-11922"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-11922/images"
+            }
+        }
+    }
+]

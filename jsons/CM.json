@@ -1,0 +1,39 @@
+[
+    {
+        "forename": "EMILIE CHANCELINE KINFACK",
+        "date_of_birth": "1983/03/02",
+        "entity_id": "2017/133989",
+        "nationalities": [
+            "CM"
+        ],
+        "name": "DJOUMESSI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-133989"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-133989/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-133989/images/60617341"
+            }
+        }
+    },
+    {
+        "forename": "ELVIS",
+        "date_of_birth": "1973/04/01",
+        "entity_id": "2013/37149",
+        "nationalities": [
+            "CM"
+        ],
+        "name": "MUKI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-37149"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-37149/images"
+            }
+        }
+    }
+]

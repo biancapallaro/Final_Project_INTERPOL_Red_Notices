@@ -1,0 +1,180 @@
+[
+    {
+        "forename": "RAWA",
+        "date_of_birth": "1986/07/12",
+        "entity_id": "2020/55671",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "MAJID",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-55671"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-55671/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-55671/images/61880817"
+            }
+        }
+    },
+    {
+        "forename": "MIKAEL ULF",
+        "date_of_birth": "1991/05/19",
+        "entity_id": "2020/3270",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "SEGELSTROEM",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-3270"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-3270/images"
+            }
+        }
+    },
+    {
+        "forename": "ISSA",
+        "date_of_birth": "1998/12/02",
+        "entity_id": "2019/131556",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "EL-CHAER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-131556"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-131556/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-131556/images/61923817"
+            }
+        }
+    },
+    {
+        "forename": "ERIK SIMON",
+        "date_of_birth": "1994/06/06",
+        "entity_id": "2019/20003",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "YNGVESSON",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-20003"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-20003/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-20003/images/61289768"
+            }
+        }
+    },
+    {
+        "forename": "SEMI",
+        "date_of_birth": "1972/12/27",
+        "entity_id": "2016/11158",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "OUESLATI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-11158"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-11158/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-11158/images/60013364"
+            }
+        }
+    },
+    {
+        "forename": "SIMON ROLF",
+        "date_of_birth": "1991/07/28",
+        "entity_id": "2013/20885",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "ARNAMO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-20885"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-20885/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-20885/images/58418851"
+            }
+        }
+    },
+    {
+        "forename": "OMAR ABDULKADIR",
+        "date_of_birth": "1984/03/09",
+        "entity_id": "2013/5748",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "OMAR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-5748"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-5748/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-5748/images/59422358"
+            }
+        }
+    },
+    {
+        "forename": "LARS AKE",
+        "date_of_birth": "1952/01/20",
+        "entity_id": "2011/58877",
+        "nationalities": [
+            "SE"
+        ],
+        "name": "MICHAELSSON",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-58877"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-58877/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-58877/images/56180950"
+            }
+        }
+    },
+    {
+        "forename": "RUSLAN",
+        "date_of_birth": "1958/11/16",
+        "entity_id": "2007/30259",
+        "nationalities": [
+            "RU",
+            "SE"
+        ],
+        "name": "GELOGAEV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-30259"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-30259/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-30259/images/61115217"
+            }
+        }
+    }
+]

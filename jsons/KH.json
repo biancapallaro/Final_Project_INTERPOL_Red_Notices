@@ -1,0 +1,23 @@
+[
+    {
+        "forename": "THI THIET",
+        "date_of_birth": "1980",
+        "entity_id": "2020/34000",
+        "nationalities": [
+            "KH",
+            "VN"
+        ],
+        "name": "LAM",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-34000"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-34000/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-34000/images/61801492"
+            }
+        }
+    }
+]

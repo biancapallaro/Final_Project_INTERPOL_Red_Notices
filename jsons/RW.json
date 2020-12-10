@@ -1,0 +1,216 @@
+[
+    {
+        "forename": "ALOYS",
+        "date_of_birth": "1948",
+        "entity_id": "2020/51800",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "NTIWIRAGABO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-51800"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-51800/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-51800/images/61866876"
+            }
+        }
+    },
+    {
+        "forename": "VINCENT",
+        "date_of_birth": "1962",
+        "entity_id": "2019/103687",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "NZIGIYIMFURA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-103687"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-103687/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-103687/images/61576300"
+            }
+        }
+    },
+    {
+        "forename": "MUGENI",
+        "date_of_birth": "1986/07/01",
+        "entity_id": "2019/53005",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "NYIRAMBARUSHIMANA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-53005"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-53005/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-53005/images/61421051"
+            }
+        }
+    },
+    {
+        "forename": "ROGER",
+        "date_of_birth": "1985",
+        "entity_id": "2017/255358",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "RUSAGARA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-255358"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-255358/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-255358/images/60827619"
+            }
+        }
+    },
+    {
+        "forename": "EMMANUEL",
+        "date_of_birth": "1970",
+        "entity_id": "2012/6577",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "NKUBANA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-6577"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-6577/images"
+            }
+        }
+    },
+    {
+        "forename": "MANASSE",
+        "date_of_birth": "1935",
+        "entity_id": "2009/10882",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "BIGWENZARE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-10882"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-10882/images"
+            }
+        }
+    },
+    {
+        "forename": "EMMANUEL",
+        "date_of_birth": "1948",
+        "entity_id": "2001/16822",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "BAGAMBIKI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-16822"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-16822/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-16822/images/61196688"
+            }
+        }
+    },
+    {
+        "forename": "LAURENT",
+        "date_of_birth": "1952/11/12",
+        "entity_id": "2007/30112",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "KUBWIMANA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-30112"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-30112/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-30112/images/61219356"
+            }
+        }
+    },
+    {
+        "forename": "CHARLES",
+        "date_of_birth": "1940",
+        "entity_id": "2001/53975",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "SIKUBWABO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-53975"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-53975/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-53975/images/61164593"
+            }
+        }
+    },
+    {
+        "forename": "PROTAIS",
+        "date_of_birth": "1960",
+        "entity_id": "2001/9022",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "MPIRANYA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-9022"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-9022/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-9022/images/59349913"
+            }
+        }
+    },
+    {
+        "forename": "ALOYS",
+        "date_of_birth": "1961",
+        "entity_id": "2001/9026",
+        "nationalities": [
+            "RW"
+        ],
+        "name": "NDIMBATI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-9026"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-9026/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-9026/images/59563635"
+            }
+        }
+    }
+]

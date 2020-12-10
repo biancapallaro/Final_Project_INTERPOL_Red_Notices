@@ -1,0 +1,64 @@
+[
+    {
+        "forename": "GATIS",
+        "date_of_birth": "1982/08/29",
+        "entity_id": "2018/33901",
+        "nationalities": [
+            "LV"
+        ],
+        "name": "ZVINGULIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-33901"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-33901/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-33901/images/61017325"
+            }
+        }
+    },
+    {
+        "forename": "ALEXEY",
+        "date_of_birth": "1978/04/30",
+        "entity_id": "2012/342716",
+        "nationalities": [
+            "LV",
+            "GE",
+            "IL"
+        ],
+        "name": "KERTSGUR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-342716"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-342716/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-342716/images/57728835"
+            }
+        }
+    },
+    {
+        "forename": "IGOR",
+        "date_of_birth": "1963/10/13",
+        "entity_id": "2000/24367",
+        "nationalities": [
+            "LV"
+        ],
+        "name": "NAGORNYI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-24367"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-24367/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-24367/images/53495284"
+            }
+        }
+    }
+]

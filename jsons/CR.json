@@ -1,0 +1,164 @@
+[
+    {
+        "forename": "MAURICIO ANTONIO",
+        "date_of_birth": "1964/05/09",
+        "entity_id": "2019/27120",
+        "nationalities": [
+            "CR"
+        ],
+        "name": "VIQUEZ LIZANO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-27120"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-27120/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-27120/images/61334307"
+            }
+        }
+    },
+    {
+        "forename": "RONALDO",
+        "date_of_birth": "1971/04/19",
+        "entity_id": "2018/103696",
+        "nationalities": [
+            "CR"
+        ],
+        "name": "CRUZ VENEGAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-103696"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-103696/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-103696/images/61236197"
+            }
+        }
+    },
+    {
+        "forename": "LAZARO ANTONIO",
+        "date_of_birth": "1981/07/25",
+        "entity_id": "2018/95861",
+        "nationalities": [
+            "CR",
+            "NI"
+        ],
+        "name": "MENA SALGADO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-95861"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-95861/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-95861/images/61213756"
+            }
+        }
+    },
+    {
+        "forename": "JORDAN LINARES",
+        "date_of_birth": "1995/04/05",
+        "entity_id": "2016/63665",
+        "nationalities": [
+            "CR"
+        ],
+        "name": "ALVAREZ  SANCHEZ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-63665"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-63665/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-63665/images/60195637"
+            }
+        }
+    },
+    {
+        "forename": "BENEDICTO",
+        "date_of_birth": "1966/06/01",
+        "entity_id": "2016/39774",
+        "nationalities": [
+            "CR"
+        ],
+        "name": "MORALES GUTI\u00c9RREZ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-39774"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-39774/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-39774/images/60135670"
+            }
+        }
+    },
+    {
+        "forename": "NAZIRA MARIA",
+        "date_of_birth": "1965/11/23",
+        "entity_id": "2010/18706",
+        "nationalities": [
+            "CR"
+        ],
+        "name": "CROSS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-18706"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-18706/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-18706/images/54376088"
+            }
+        }
+    },
+    {
+        "forename": "GERMAN ENRIQUE",
+        "date_of_birth": "1961/08/08",
+        "entity_id": "2003/40436",
+        "nationalities": [
+            "CR"
+        ],
+        "name": "MORENO ROJAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-40436"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-40436/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-40436/images/53957358"
+            }
+        }
+    },
+    {
+        "forename": "IVAN VELINOV",
+        "date_of_birth": "1959/05/10",
+        "entity_id": "1998/20764",
+        "nationalities": [
+            "BG",
+            "CR"
+        ],
+        "name": "KITOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-20764"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-20764/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1998-20764/images/60984357"
+            }
+        }
+    }
+]

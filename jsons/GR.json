@@ -1,0 +1,265 @@
+[
+    {
+        "forename": "NIKOS",
+        "date_of_birth": "1953/06/01",
+        "entity_id": "2017/64501",
+        "nationalities": [
+            "VE",
+            "GR"
+        ],
+        "name": "TZORTZAKIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-64501"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-64501/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-64501/images/60426396"
+            }
+        }
+    },
+    {
+        "forename": "NIKOLAOS",
+        "date_of_birth": "1937/04/23",
+        "entity_id": "2016/42694",
+        "nationalities": [
+            "GR"
+        ],
+        "name": "PAPATSONIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-42694"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-42694/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-42694/images/60120986"
+            }
+        }
+    },
+    {
+        "forename": "IRAKLIY",
+        "date_of_birth": "1981/08/08",
+        "entity_id": "2016/41983",
+        "nationalities": [
+            "GR",
+            "RU"
+        ],
+        "name": "GAVZYA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-41983"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-41983/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-41983/images/60118318"
+            }
+        }
+    },
+    {
+        "forename": "KONSTANTINOS",
+        "date_of_birth": "1968/01/23",
+        "entity_id": "2015/68587",
+        "nationalities": [
+            "GR"
+        ],
+        "name": "NTALAGEORGOS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-68587"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-68587/images"
+            }
+        }
+    },
+    {
+        "forename": "IOANNIS",
+        "date_of_birth": "1952/09/18",
+        "entity_id": "2014/58503",
+        "nationalities": [
+            "GR",
+            "CA"
+        ],
+        "name": "MARANGOUDAKIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-58503"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-58503/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-58503/images/59618389"
+            }
+        }
+    },
+    {
+        "forename": "YURIY",
+        "date_of_birth": "1962/09/25",
+        "entity_id": "2011/31616",
+        "nationalities": [
+            "GR",
+            "RU"
+        ],
+        "name": "YANAKOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-31616"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-31616/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-31616/images/55413027"
+            }
+        }
+    },
+    {
+        "forename": "IRAKLIY",
+        "date_of_birth": "1955/05/21",
+        "entity_id": "2011/11313",
+        "nationalities": [
+            "GR",
+            "RU"
+        ],
+        "name": "SAVVIDI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-11313"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-11313/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-11313/images/55041955"
+            }
+        }
+    },
+    {
+        "forename": "SOFIA",
+        "date_of_birth": "1956/02/05",
+        "entity_id": "2005/51359",
+        "nationalities": [
+            "RU",
+            "GR"
+        ],
+        "name": "ADAMIDI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-51359"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-51359/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-51359/images/53992132"
+            }
+        }
+    },
+    {
+        "forename": "AVTANDIL",
+        "date_of_birth": "1965/01/30",
+        "entity_id": "2004/56804",
+        "nationalities": [
+            "GR",
+            "RU"
+        ],
+        "name": "IANAKOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-56804"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-56804/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-56804/images/53953848"
+            }
+        }
+    },
+    {
+        "forename": "ALEXANDRE",
+        "date_of_birth": "1962/06/07",
+        "entity_id": "2004/28450",
+        "nationalities": [
+            "GR",
+            "RU"
+        ],
+        "name": "IKONOMOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-28450"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-28450/images"
+            }
+        }
+    },
+    {
+        "forename": "VASSILIOS",
+        "date_of_birth": "1966/05/17",
+        "entity_id": "2006/26953",
+        "nationalities": [
+            "GR"
+        ],
+        "name": "PALEOKOSTAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-26953"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-26953/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-26953/images/54075728"
+            }
+        }
+    },
+    {
+        "forename": "DIMITRIOUS",
+        "date_of_birth": "1969/02/27",
+        "entity_id": "2005/35455",
+        "nationalities": [
+            "GR"
+        ],
+        "name": "AMASIADIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-35455"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-35455/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2005-35455/images/61419991"
+            }
+        }
+    },
+    {
+        "forename": "DIMITRIOS ATHANASIOS",
+        "date_of_birth": "1975/08/08",
+        "entity_id": "2001/42918",
+        "nationalities": [
+            "US",
+            "GR"
+        ],
+        "name": "ANDROUTSOPOULOS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-42918"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-42918/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-42918/images/53197825"
+            }
+        }
+    }
+]

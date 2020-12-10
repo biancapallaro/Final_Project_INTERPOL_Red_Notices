@@ -1,0 +1,182 @@
+[
+    {
+        "forename": "CARLOS",
+        "date_of_birth": "1954/03/09",
+        "entity_id": "2020/104",
+        "nationalities": [
+            "BR",
+            "LB",
+            "FR"
+        ],
+        "name": "GHOSN BICHARA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-104"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-104/images"
+            }
+        }
+    },
+    {
+        "forename": "GISELE",
+        "date_of_birth": "1959/03/19",
+        "entity_id": "2018/95383",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "JALLER JABBOUR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-95383"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-95383/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-95383/images/61212479"
+            }
+        }
+    },
+    {
+        "forename": "ALI",
+        "date_of_birth": "1991/04/29",
+        "entity_id": "2016/90932",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "FOUANI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-90932"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-90932/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-90932/images/60265264"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMED",
+        "date_of_birth": "1962/12/17",
+        "entity_id": "2016/71159",
+        "nationalities": [
+            "FR",
+            "LB"
+        ],
+        "name": "AKRA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-71159"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-71159/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-71159/images/60219530"
+            }
+        }
+    },
+    {
+        "forename": "IBRAHIM SULEIMAN",
+        "date_of_birth": "1960",
+        "entity_id": "2015/69759",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "HUSSEIN MOHAMAD",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-69759"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-69759/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-69759/images/60000249"
+            }
+        }
+    },
+    {
+        "forename": "HASSAN",
+        "date_of_birth": "1953/01/01",
+        "entity_id": "2015/85755",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "HODROJ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-85755"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-85755/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-85755/images/59971674"
+            }
+        }
+    },
+    {
+        "forename": "MARWAN",
+        "date_of_birth": "1987/07/10",
+        "entity_id": "2012/332849",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "SWEIDAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-332849"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-332849/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-332849/images/57952337"
+            }
+        }
+    },
+    {
+        "forename": "PEDRO",
+        "date_of_birth": "1968/10/12",
+        "entity_id": "2011/60631",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "BOUTROS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-60631"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-60631/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-60631/images/56490251"
+            }
+        }
+    },
+    {
+        "forename": "HUSAYN MUHAMMED",
+        "date_of_birth": "1948",
+        "entity_id": "2009/34975",
+        "nationalities": [
+            "LB"
+        ],
+        "name": "AL-UMARI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-34975"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-34975/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-34975/images/54238023"
+            }
+        }
+    }
+]

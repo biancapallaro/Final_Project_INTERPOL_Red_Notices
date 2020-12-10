@@ -1,0 +1,23 @@
+[
+    {
+        "forename": "ABDULLAH AHMED",
+        "date_of_birth": "1963/01/01",
+        "entity_id": "2001/14403",
+        "nationalities": [
+            "EG",
+            "YE"
+        ],
+        "name": "ABDULLAH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-14403"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-14403/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-14403/images/52628822"
+            }
+        }
+    }
+]

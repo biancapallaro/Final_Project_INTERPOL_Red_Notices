@@ -1,0 +1,124 @@
+[
+    {
+        "forename": "ELVIR",
+        "date_of_birth": "1975/02/18",
+        "entity_id": "2018/72355",
+        "nationalities": [
+            "BA",
+            "CH"
+        ],
+        "name": "MUMINOVIC",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-72355"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-72355/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-72355/images/61142649"
+            }
+        }
+    },
+    {
+        "forename": "CARLO VALENTINO FERDINANDO",
+        "date_of_birth": "1946/11/11",
+        "entity_id": "2015/80140",
+        "nationalities": [
+            "IT",
+            "CH"
+        ],
+        "name": "GEROSA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80140"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80140/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80140/images/59953002"
+            }
+        }
+    },
+    {
+        "forename": "JORG JOSEF",
+        "date_of_birth": "1947/11/25",
+        "entity_id": "2013/6028",
+        "nationalities": [
+            "CH"
+        ],
+        "name": "DOSSENBACH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-6028"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-6028/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-6028/images/60039289"
+            }
+        }
+    },
+    {
+        "forename": "MARCO AURELIO GIUSEPPE",
+        "date_of_birth": "1957/10/20",
+        "entity_id": "2011/12965",
+        "nationalities": [
+            "CH"
+        ],
+        "name": "STREIT",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-12965"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-12965/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-12965/images/55087347"
+            }
+        }
+    },
+    {
+        "forename": "WILHELM ALBIN",
+        "date_of_birth": "1941/12/02",
+        "entity_id": "2006/985",
+        "nationalities": [
+            "CH"
+        ],
+        "name": "MARTI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-985"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-985/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-985/images/53439635"
+            }
+        }
+    },
+    {
+        "forename": "LILLI MARIE",
+        "date_of_birth": "1944/07/20",
+        "entity_id": "2006/983",
+        "nationalities": [
+            "CH"
+        ],
+        "name": "MARTI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-983"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-983/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2006-983/images/61426847"
+            }
+        }
+    }
+]

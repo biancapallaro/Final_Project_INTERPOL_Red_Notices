@@ -1,0 +1,22 @@
+[
+    {
+        "forename": "NICOLE",
+        "date_of_birth": "1989/01/25",
+        "entity_id": "2011/2140",
+        "nationalities": [
+            "BS"
+        ],
+        "name": "RUSSELL",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-2140"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-2140/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-2140/images/54853469"
+            }
+        }
+    }
+]

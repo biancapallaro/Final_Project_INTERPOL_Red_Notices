@@ -1,0 +1,142 @@
+[
+    {
+        "forename": "MAHMOUD MUSTAFA BUSAYF",
+        "date_of_birth": "1978/02/09",
+        "entity_id": "2018/13041",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "AL-WERFALLI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-13041"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-13041/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-13041/images/60956076"
+            }
+        }
+    },
+    {
+        "forename": "AL-TUHAMY MOHAMED",
+        "date_of_birth": "1942",
+        "entity_id": "2017/152196",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "KHALED",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-152196"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-152196/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-152196/images/60625742"
+            }
+        }
+    },
+    {
+        "forename": "SAIF AL-ISLAM",
+        "date_of_birth": "1972/06/25",
+        "entity_id": "2016/60142",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "GADDAFI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-60142"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-60142/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-60142/images/61129659"
+            }
+        }
+    },
+    {
+        "forename": "FOUZI AHMED ALI",
+        "date_of_birth": "1974/07/24",
+        "entity_id": "2015/28097",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "BALHOOG",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28097"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28097/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28097/images/59783351"
+            }
+        }
+    },
+    {
+        "forename": "ABDALHAFID AHMED A",
+        "date_of_birth": "1979/03/09",
+        "entity_id": "2015/28109",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "BALHOUG",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28109"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28109/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-28109/images/59783391"
+            }
+        }
+    },
+    {
+        "forename": "JOHN",
+        "date_of_birth": "1959/10/28",
+        "entity_id": "2014/24210",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "LOWRY",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-24210"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-24210/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-24210/images/59490862"
+            }
+        }
+    },
+    {
+        "forename": "FARADJ MOHAMMED",
+        "date_of_birth": "1983/01/03",
+        "entity_id": "2012/2461",
+        "nationalities": [
+            "LY"
+        ],
+        "name": "ABUTORKID",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-2461"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-2461/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-2461/images/56582229"
+            }
+        }
+    }
+]

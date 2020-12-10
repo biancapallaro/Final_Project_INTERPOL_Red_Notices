@@ -1,0 +1,306 @@
+[
+    {
+        "forename": "RACHID",
+        "date_of_birth": "1967/10/06",
+        "entity_id": "2019/114080",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "BOUAZZA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-114080"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-114080/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-114080/images/61608618"
+            }
+        }
+    },
+    {
+        "forename": "LALLA BOUCHRA",
+        "date_of_birth": "1961/09/06",
+        "entity_id": "2010/39144",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "LALAMI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-39144"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-39144/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-39144/images/56900230"
+            }
+        }
+    },
+    {
+        "forename": "SAID",
+        "date_of_birth": "1972/06/01",
+        "entity_id": "2018/15807",
+        "nationalities": [
+            "MA",
+            "NL"
+        ],
+        "name": "RAZZOUKI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-15807"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-15807/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-15807/images/60969522"
+            }
+        }
+    },
+    {
+        "forename": "SAMIR",
+        "date_of_birth": "1978/06/20",
+        "entity_id": "2004/53600",
+        "nationalities": [
+            "MA",
+            "FR"
+        ],
+        "name": "MEZIANI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-53600"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-53600/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-53600/images/60913711"
+            }
+        }
+    },
+    {
+        "forename": "HICHAM",
+        "date_of_birth": "1988/03/09",
+        "entity_id": "2017/17383",
+        "nationalities": [
+            "MA",
+            "FR"
+        ],
+        "name": "EL OUAFI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-17383"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-17383/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-17383/images/60334759"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMED",
+        "date_of_birth": "1973/08/08",
+        "entity_id": "2011/31036",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "AISSA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-31036"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-31036/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-31036/images/60230780"
+            }
+        }
+    },
+    {
+        "forename": "BILLEL",
+        "date_of_birth": "1985/06/29",
+        "entity_id": "2015/47976",
+        "nationalities": [
+            "BE",
+            "MA"
+        ],
+        "name": "EL FIKRI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-47976"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-47976/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-47976/images/60122064"
+            }
+        }
+    },
+    {
+        "forename": "OTHMANE",
+        "date_of_birth": "1982/03/05",
+        "entity_id": "2016/20180",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "GALOUBY",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-20180"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-20180/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-20180/images/60047317"
+            }
+        }
+    },
+    {
+        "forename": "ABDELMAJID",
+        "date_of_birth": "1969/08/04",
+        "entity_id": "2013/33132",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "LAMRANI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-33132"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-33132/images"
+            }
+        }
+    },
+    {
+        "forename": "SALAH",
+        "date_of_birth": "1970/01/01",
+        "entity_id": "2013/23866",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "EL JAADI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-23866"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-23866/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-23866/images/58470008"
+            }
+        }
+    },
+    {
+        "forename": "MICHAEL",
+        "date_of_birth": "1972/11/13",
+        "entity_id": "2012/307799",
+        "nationalities": [
+            "US",
+            "MA"
+        ],
+        "name": "TARMOUN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-307799"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-307799/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-307799/images/57013726"
+            }
+        }
+    },
+    {
+        "forename": "SAAID MOHAMMED ABDERRAHMANOULD SIDI BOUBAK",
+        "date_of_birth": "1977/04/26",
+        "entity_id": "2012/304195",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "OMARI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-304195"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-304195/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-304195/images/56964617"
+            }
+        }
+    },
+    {
+        "forename": "ZAKARIYA",
+        "date_of_birth": "1977/04/03",
+        "entity_id": "2001/46768",
+        "nationalities": [
+            "MA"
+        ],
+        "name": "ESSABAR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-46768"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-46768/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-46768/images/60528697"
+            }
+        }
+    },
+    {
+        "forename": "SAID",
+        "date_of_birth": "1975/07/15",
+        "entity_id": "2001/41909",
+        "nationalities": [
+            "DE",
+            "MA"
+        ],
+        "name": "BAHAJI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-41909"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-41909/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-41909/images/52695036"
+            }
+        }
+    },
+    {
+        "forename": "AYOUB",
+        "date_of_birth": "1963/02/10",
+        "entity_id": "1993/4103",
+        "nationalities": [
+            "MA",
+            "FI"
+        ],
+        "name": "EL YAAKOUBI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1993-4103"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1993-4103/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1993-4103/images/54432095"
+            }
+        }
+    }
+]

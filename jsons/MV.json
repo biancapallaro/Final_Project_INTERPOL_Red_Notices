@@ -1,0 +1,202 @@
+[
+    {
+        "forename": "AZLEEF MOHAMED",
+        "date_of_birth": "1989/12/05",
+        "entity_id": "2019/78091",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "ALI RASHEED",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-78091"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-78091/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-78091/images/61500348"
+            }
+        }
+    },
+    {
+        "forename": "AHMED MOOSA",
+        "date_of_birth": "1977/09/22",
+        "entity_id": "2019/43719",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "MOHAMED",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43719"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43719/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-43719/images/61388107"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMED",
+        "date_of_birth": "1971/01/21",
+        "entity_id": "2014/65192",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "BAGIR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-65192"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-65192/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-65192/images/59640807"
+            }
+        }
+    },
+    {
+        "forename": "MOHAMED",
+        "date_of_birth": "1970/11/06",
+        "entity_id": "2012/311831",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "ABDULLA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-311831"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-311831/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-311831/images/57125675"
+            }
+        }
+    },
+    {
+        "forename": "YOOSUF",
+        "date_of_birth": "1981/06/04",
+        "entity_id": "2007/48607",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "HASSAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48607"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48607/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48607/images/61177607"
+            }
+        }
+    },
+    {
+        "forename": "SHAMEEM",
+        "date_of_birth": "1982/07/03",
+        "entity_id": "2007/48654",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "ALI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48654"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48654/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48654/images/61175406"
+            }
+        }
+    },
+    {
+        "forename": "IMAD",
+        "date_of_birth": "1980/04/11",
+        "entity_id": "2007/48658",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "MOHAMED",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48658"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48658/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48658/images/61175374"
+            }
+        }
+    },
+    {
+        "forename": "MANIK",
+        "date_of_birth": "1987/09/04",
+        "entity_id": "2007/48649",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "MOOSA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48649"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48649/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48649/images/61177601"
+            }
+        }
+    },
+    {
+        "forename": "RIYAZ",
+        "date_of_birth": "1986/02/07",
+        "entity_id": "2007/48651",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "HASSAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48651"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48651/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48651/images/61177590"
+            }
+        }
+    },
+    {
+        "forename": "SIMAD",
+        "date_of_birth": "1982/07/03",
+        "entity_id": "2007/48652",
+        "nationalities": [
+            "MV"
+        ],
+        "name": "HUSSAIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48652"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48652/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2007-48652/images/61177585"
+            }
+        }
+    }
+]

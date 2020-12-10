@@ -1,0 +1,285 @@
+[
+    {
+        "forename": "SICELO SANDILE",
+        "date_of_birth": "1981/06/05",
+        "entity_id": "2018/11650",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "ZIKALALA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-11650"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-11650/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-11650/images/60951810"
+            }
+        }
+    },
+    {
+        "forename": "PHUMLANI MANQOBA",
+        "date_of_birth": "1993/04/03",
+        "entity_id": "2017/293133",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "KUNENE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-293133"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-293133/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-293133/images/60910202"
+            }
+        }
+    },
+    {
+        "forename": "BHEKI MPHIKELELI",
+        "date_of_birth": "1984/02/14",
+        "entity_id": "2017/233905",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "SIMELANE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-233905"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-233905/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-233905/images/60800900"
+            }
+        }
+    },
+    {
+        "forename": "MFUNDO MSATJI",
+        "date_of_birth": "1986/05/22",
+        "entity_id": "2016/46336",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "TSABEDZE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-46336"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-46336/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-46336/images/60133835"
+            }
+        }
+    },
+    {
+        "forename": "THANDIWE SELLINAH",
+        "date_of_birth": "1970/04/14",
+        "entity_id": "2015/51910",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "MLILO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-51910"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-51910/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-51910/images/59860564"
+            }
+        }
+    },
+    {
+        "forename": "NKOSINATHI NATHI",
+        "date_of_birth": "1984/02/15",
+        "entity_id": "2015/42236",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "MOTSA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42236"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42236/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42236/images/59830738"
+            }
+        }
+    },
+    {
+        "forename": "DUMSANI PAPA",
+        "date_of_birth": "1982/09/28",
+        "entity_id": "2015/42104",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "STEWART",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42104"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42104/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42104/images/59830465"
+            }
+        }
+    },
+    {
+        "forename": "AARON MACARONE",
+        "date_of_birth": "1979/03/25",
+        "entity_id": "2015/42000",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "MOTSA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42000"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42000/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-42000/images/59830087"
+            }
+        }
+    },
+    {
+        "forename": "GUGU FAITH",
+        "date_of_birth": "1984/08/13",
+        "entity_id": "2015/10249",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "ZULU",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-10249"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-10249/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-10249/images/59722935"
+            }
+        }
+    },
+    {
+        "forename": "MOSES TEBOGO",
+        "date_of_birth": "1972/07/30",
+        "entity_id": "2014/45317",
+        "nationalities": [
+            "SZ",
+            "ZA"
+        ],
+        "name": "MATHUNJWA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-45317"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-45317/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-45317/images/59571054"
+            }
+        }
+    },
+    {
+        "forename": "NDODA",
+        "date_of_birth": "1980",
+        "entity_id": "2014/28664",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "MKWANAZI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-28664"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-28664/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-28664/images/59508758"
+            }
+        }
+    },
+    {
+        "forename": "MOREBLESSING",
+        "date_of_birth": "1974/11/04",
+        "entity_id": "2014/35530",
+        "nationalities": [
+            "SZ",
+            "ZW"
+        ],
+        "name": "MAVUSO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-35530"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-35530/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-35530/images/59536356"
+            }
+        }
+    },
+    {
+        "forename": "SIPHO GIFT",
+        "date_of_birth": "1983/03/27",
+        "entity_id": "2014/35154",
+        "nationalities": [
+            "SZ"
+        ],
+        "name": "SITHOLE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-35154"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-35154/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-35154/images/59534049"
+            }
+        }
+    },
+    {
+        "forename": "BHEKUMUSA MAWILLIS",
+        "date_of_birth": "1979/06/25",
+        "entity_id": "2011/41758",
+        "nationalities": [
+            "ZA",
+            "SZ"
+        ],
+        "name": "SHIBA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-41758"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-41758/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-41758/images/61284914"
+            }
+        }
+    }
+]

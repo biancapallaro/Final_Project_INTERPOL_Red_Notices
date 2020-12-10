@@ -1,0 +1,217 @@
+[
+    {
+        "forename": "HAYDER ABDULJABBAR SADDAM",
+        "date_of_birth": "1985/09/10",
+        "entity_id": "2019/32905",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "AL-HMEDAWI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-32905"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-32905/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-32905/images/61353775"
+            }
+        }
+    },
+    {
+        "forename": "RAMADAN TAHER",
+        "date_of_birth": "1987/08/26",
+        "entity_id": "2018/65149",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "RAMADAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-65149"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-65149/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-65149/images/61120793"
+            }
+        }
+    },
+    {
+        "forename": "AZAD SATTAR AHMAD",
+        "date_of_birth": "1983/09/12",
+        "entity_id": "2018/17928",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "JUBURI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-17928"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-17928/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-17928/images/60971764"
+            }
+        }
+    },
+    {
+        "forename": "AHMAD",
+        "date_of_birth": "1985",
+        "entity_id": "2018/14264",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "ALASWADI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-14264"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-14264/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-14264/images/60959710"
+            }
+        }
+    },
+    {
+        "forename": "GARMIAN KHALEEL",
+        "date_of_birth": "1997/08/27",
+        "entity_id": "2016/30996",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "QADER",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-30996"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-30996/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-30996/images/60081255"
+            }
+        }
+    },
+    {
+        "forename": "AMER",
+        "date_of_birth": "1983/06/01",
+        "entity_id": "2008/5906",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "THRON",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-5906"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-5906/images"
+            }
+        }
+    },
+    {
+        "forename": "ALI",
+        "date_of_birth": "1961/04/21",
+        "entity_id": "2012/301405",
+        "nationalities": [
+            "IQ",
+            "CA"
+        ],
+        "name": "ABID",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-301405"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-301405/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-301405/images/56904144"
+            }
+        }
+    },
+    {
+        "forename": "HUSSEN",
+        "date_of_birth": "1956/07/01",
+        "entity_id": "2010/56612",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "SAMAN A.",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-56612"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-56612/images"
+            }
+        }
+    },
+    {
+        "forename": "KASSIM",
+        "date_of_birth": "1966/07/01",
+        "entity_id": "2008/14486",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "GEIBI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-14486"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-14486/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-14486/images/61136457"
+            }
+        }
+    },
+    {
+        "forename": "AZAD GHALEB",
+        "date_of_birth": "1971/05/16",
+        "entity_id": "2003/54888",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "ALI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-54888"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-54888/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2003-54888/images/61548126"
+            }
+        }
+    },
+    {
+        "forename": "NAZAR ABDELKARIM",
+        "date_of_birth": "1938/11/17",
+        "entity_id": "2001/37796",
+        "nationalities": [
+            "IQ"
+        ],
+        "name": "AL KHAZRAJI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-37796"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-37796/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-37796/images/60965518"
+            }
+        }
+    }
+]

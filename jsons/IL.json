@@ -1,0 +1,516 @@
+[
+    {
+        "forename": "AMIR",
+        "date_of_birth": "1985/03/18",
+        "entity_id": "2016/36783",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "AVITAL",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-36783"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-36783/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-36783/images/60205526"
+            }
+        }
+    },
+    {
+        "forename": "SORIN",
+        "date_of_birth": "1949/10/02",
+        "entity_id": "2001/36628",
+        "nationalities": [
+            "IL",
+            "RO"
+        ],
+        "name": "BERARU",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-36628"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-36628/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-36628/images/57263095"
+            }
+        }
+    },
+    {
+        "forename": "YUSUF ERCIN",
+        "date_of_birth": "1957/06/30",
+        "entity_id": "2015/81109",
+        "nationalities": [
+            "IL",
+            "TR"
+        ],
+        "name": "SONMEZ",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81109"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81109/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81109/images/59956471"
+            }
+        }
+    },
+    {
+        "forename": "BORIS",
+        "date_of_birth": "1984/03/11",
+        "entity_id": "2015/81111",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "VOLFMAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81111"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81111/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81111/images/59956477"
+            }
+        }
+    },
+    {
+        "forename": "ROINI",
+        "date_of_birth": "1978/03/06",
+        "entity_id": "2015/81115",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "SHIMSHILASHVILI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81115"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81115/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-81115/images/59956495"
+            }
+        }
+    },
+    {
+        "forename": "MOSHE",
+        "date_of_birth": "1950/01/03",
+        "entity_id": "2015/80376",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "HAREL",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80376"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80376/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80376/images/59953741"
+            }
+        }
+    },
+    {
+        "forename": "YURY",
+        "date_of_birth": "1977/04/07",
+        "entity_id": "2015/80407",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "KATSMAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80407"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80407/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80407/images/59953827"
+            }
+        }
+    },
+    {
+        "forename": "MIKHAIL",
+        "date_of_birth": "1967/07/19",
+        "entity_id": "2015/77728",
+        "nationalities": [
+            "IL",
+            "RU"
+        ],
+        "name": "LEVITIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-77728"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-77728/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-77728/images/59945416"
+            }
+        }
+    },
+    {
+        "forename": "ARNOLD",
+        "date_of_birth": "1943/08/04",
+        "entity_id": "2015/74700",
+        "nationalities": [
+            "RU",
+            "IL"
+        ],
+        "name": "KHATCHANIANTS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-74700"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-74700/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-74700/images/59934666"
+            }
+        }
+    },
+    {
+        "forename": "VLADIMIR",
+        "date_of_birth": "1973/05/18",
+        "entity_id": "2015/71012",
+        "nationalities": [
+            "IL",
+            "UA"
+        ],
+        "name": "SKULSKY",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-71012"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-71012/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-71012/images/59922832"
+            }
+        }
+    },
+    {
+        "forename": "IGOR",
+        "date_of_birth": "1974/12/17",
+        "entity_id": "2015/63441",
+        "nationalities": [
+            "IL",
+            "RU"
+        ],
+        "name": "EVDOKIMOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-63441"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-63441/images"
+            }
+        }
+    },
+    {
+        "forename": "RONNEN",
+        "date_of_birth": "1969/03/02",
+        "entity_id": "2015/11859",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "IRANI OREN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-11859"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-11859/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-11859/images/59728012"
+            }
+        }
+    },
+    {
+        "forename": "JIMMY JULIUS",
+        "date_of_birth": "1971/05/03",
+        "entity_id": "2014/31584",
+        "nationalities": [
+            "IL",
+            "US"
+        ],
+        "name": "KAROW",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-31584"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-31584/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-31584/images/59519942"
+            }
+        }
+    },
+    {
+        "forename": "SAVELIY",
+        "date_of_birth": "1970/06/17",
+        "entity_id": "2013/43642",
+        "nationalities": [
+            "RU",
+            "IL"
+        ],
+        "name": "ORBANT",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-43642"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-43642/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-43642/images/58877501"
+            }
+        }
+    },
+    {
+        "forename": "MOSHE",
+        "date_of_birth": "1974/12/10",
+        "entity_id": "2013/10046",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "MOLINAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-10046"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-10046/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-10046/images/58235284"
+            }
+        }
+    },
+    {
+        "forename": "ALEXEY",
+        "date_of_birth": "1978/04/30",
+        "entity_id": "2012/342716",
+        "nationalities": [
+            "LV",
+            "GE",
+            "IL"
+        ],
+        "name": "KERTSGUR",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-342716"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-342716/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-342716/images/57728835"
+            }
+        }
+    },
+    {
+        "forename": "ELENA",
+        "date_of_birth": "1960/08/15",
+        "entity_id": "2012/331112",
+        "nationalities": [
+            "IL",
+            "RU"
+        ],
+        "name": "SHAPIRO",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-331112"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-331112/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-331112/images/60665495"
+            }
+        }
+    },
+    {
+        "forename": "GIENADIJ",
+        "date_of_birth": "1970/06/12",
+        "entity_id": "2011/52426",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "FAKTOROVICH",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-52426"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-52426/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-52426/images/59581803"
+            }
+        }
+    },
+    {
+        "forename": "OLGA",
+        "date_of_birth": "1976/08/10",
+        "entity_id": "2010/33767",
+        "nationalities": [
+            "IL",
+            "RU"
+        ],
+        "name": "VAIZMAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-33767"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-33767/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-33767/images/54447846"
+            }
+        }
+    },
+    {
+        "forename": "EREZ JACOB",
+        "date_of_birth": "1964/03/04",
+        "entity_id": "2009/17220",
+        "nationalities": [
+            "IL",
+            "BE"
+        ],
+        "name": "RIVLIN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-17220"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-17220/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-17220/images/54141382"
+            }
+        }
+    },
+    {
+        "forename": "SHIR",
+        "date_of_birth": "1979/12/18",
+        "entity_id": "2009/18185",
+        "nationalities": [
+            "IL"
+        ],
+        "name": "COHEN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-18185"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-18185/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2009-18185/images/54147473"
+            }
+        }
+    },
+    {
+        "forename": "MENASHE",
+        "date_of_birth": "1949/09/18",
+        "entity_id": "2008/18496",
+        "nationalities": [
+            "IL",
+            "US"
+        ],
+        "name": "WOLT",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-18496"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-18496/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2008-18496/images/54115686"
+            }
+        }
+    },
+    {
+        "forename": "MAXIM",
+        "date_of_birth": "1968/09/03",
+        "entity_id": "2000/38913",
+        "nationalities": [
+            "IL",
+            "RU"
+        ],
+        "name": "GOFMAN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-38913"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-38913/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-38913/images/53805982"
+            }
+        }
+    },
+    {
+        "forename": "DMITRIY",
+        "date_of_birth": "1984/10/08",
+        "entity_id": "2004/41980",
+        "nationalities": [
+            "IL",
+            "RU"
+        ],
+        "name": "BOGDANOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-41980"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-41980/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2004-41980/images/53699592"
+            }
+        }
+    },
+    {
+        "forename": "AVICHAIL",
+        "date_of_birth": "1957/11/27",
+        "entity_id": "2000/6876",
+        "nationalities": [
+            "IL",
+            "FR"
+        ],
+        "name": "DAEL",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-6876"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-6876/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2000-6876/images/52948914"
+            }
+        }
+    }
+]

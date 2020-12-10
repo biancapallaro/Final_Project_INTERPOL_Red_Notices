@@ -1,0 +1,123 @@
+[
+    {
+        "forename": "UGO",
+        "date_of_birth": "1953/03/22",
+        "entity_id": "2020/73351",
+        "nationalities": [
+            "IT"
+        ],
+        "name": "MARCHIC",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73351"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73351/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-73351/images/61941843"
+            }
+        }
+    },
+    {
+        "forename": "CARLO VALENTINO FERDINANDO",
+        "date_of_birth": "1946/11/11",
+        "entity_id": "2015/80140",
+        "nationalities": [
+            "IT",
+            "CH"
+        ],
+        "name": "GEROSA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80140"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80140/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-80140/images/59953002"
+            }
+        }
+    },
+    {
+        "forename": "ANTONINO",
+        "date_of_birth": "1946/05/31",
+        "entity_id": "2015/25643",
+        "nationalities": [
+            "IT"
+        ],
+        "name": "COLOSI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-25643"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-25643/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-25643/images/59776104"
+            }
+        }
+    },
+    {
+        "forename": "ANGELO",
+        "date_of_birth": "1947/03/02",
+        "entity_id": "2013/17501",
+        "nationalities": [
+            "IT"
+        ],
+        "name": "GALIMBERTI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-17501"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-17501/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2013-17501/images/60528824"
+            }
+        }
+    },
+    {
+        "forename": "FRANCO",
+        "date_of_birth": "1945/12/19",
+        "entity_id": "2012/290803",
+        "nationalities": [
+            "IT"
+        ],
+        "name": "RAIMONDI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-290803"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-290803/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2012-290803/images/56797241"
+            }
+        }
+    },
+    {
+        "forename": "ENRICO",
+        "date_of_birth": "1948/05/13",
+        "entity_id": "2010/52792",
+        "nationalities": [
+            "IT"
+        ],
+        "name": "BALLARDINI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-52792"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-52792/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-52792/images/54633332"
+            }
+        }
+    }
+]

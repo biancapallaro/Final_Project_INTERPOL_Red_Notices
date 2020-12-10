@@ -1,0 +1,142 @@
+[
+    {
+        "forename": "MINDAUGAS",
+        "date_of_birth": "1979/01/14",
+        "entity_id": "2020/45105",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "BEDUNKEVICIUS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-45105"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-45105/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2020-45105/images/61842737"
+            }
+        }
+    },
+    {
+        "forename": "ARUNAS",
+        "date_of_birth": "1986/08/11",
+        "entity_id": "2018/30050",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "STIKLIORAITIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-30050"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-30050/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-30050/images/61004043"
+            }
+        }
+    },
+    {
+        "forename": "EGIDIJUS",
+        "date_of_birth": "1971/09/01",
+        "entity_id": "2017/166867",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "KIVERIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-166867"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-166867/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-166867/images/60652613"
+            }
+        }
+    },
+    {
+        "forename": "NERINGA",
+        "date_of_birth": "1978/08/07",
+        "entity_id": "2016/69122",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "JAKELAITIENE",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-69122"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-69122/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2016-69122/images/60213703"
+            }
+        }
+    },
+    {
+        "forename": "ALGIMANTAS",
+        "date_of_birth": "1979/09/19",
+        "entity_id": "2014/61672",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "RINGAILA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-61672"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-61672/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2014-61672/images/59629198"
+            }
+        }
+    },
+    {
+        "forename": "DEIMANTAS",
+        "date_of_birth": "1983/06/02",
+        "entity_id": "2010/13443",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "GAVRILOVAS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-13443"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-13443/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2010-13443/images/54350539"
+            }
+        }
+    },
+    {
+        "forename": "ROMAS",
+        "date_of_birth": "1970/01/07",
+        "entity_id": "2001/8347",
+        "nationalities": [
+            "LT"
+        ],
+        "name": "ZAMOLSKIS",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-8347"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-8347/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2001-8347/images/61353408"
+            }
+        }
+    }
+]

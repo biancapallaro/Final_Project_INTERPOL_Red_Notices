@@ -1,0 +1,63 @@
+[
+    {
+        "forename": "ABDULHAFIZ",
+        "date_of_birth": "1980/06/06",
+        "entity_id": "2015/30881",
+        "nationalities": [
+            "NE"
+        ],
+        "name": "KOLAVI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-30881"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-30881/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-30881/images/59792857"
+            }
+        }
+    },
+    {
+        "forename": "ADILKAN",
+        "date_of_birth": "1982/04/09",
+        "entity_id": "2015/21100",
+        "nationalities": [
+            "NE"
+        ],
+        "name": "ALUSULA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-21100"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-21100/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-21100/images/59758368"
+            }
+        }
+    },
+    {
+        "forename": "BOUHARI",
+        "date_of_birth": "1971/09/04",
+        "entity_id": "2015/13681",
+        "nationalities": [
+            "NE",
+            "NG"
+        ],
+        "name": "SALIF",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-13681"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-13681/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-13681/images/59733765"
+            }
+        }
+    }
+]

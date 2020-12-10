@@ -1,0 +1,23 @@
+[
+    {
+        "forename": "ALEXANDER",
+        "date_of_birth": "1951/06/01",
+        "entity_id": "1997/43145",
+        "nationalities": [
+            "KN",
+            "RU"
+        ],
+        "name": "RODIONOV",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1997-43145"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1997-43145/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1997-43145/images/54402026"
+            }
+        }
+    }
+]

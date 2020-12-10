@@ -1,0 +1,101 @@
+[
+    {
+        "forename": "IBRAHIM",
+        "date_of_birth": "1993/05/10",
+        "entity_id": "2019/125648",
+        "nationalities": [
+            "CA",
+            "KE"
+        ],
+        "name": "ISSAK HUSSEN",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-125648"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-125648/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2019-125648/images/61652999"
+            }
+        }
+    },
+    {
+        "forename": "AHMED MAHABUB",
+        "date_of_birth": "1986",
+        "entity_id": "2017/286230",
+        "nationalities": [
+            "SO",
+            "KE"
+        ],
+        "name": "GEDI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-286230"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2017-286230/images"
+            }
+        }
+    },
+    {
+        "forename": "SAMUEL BAKARI",
+        "date_of_birth": "1989/08/07",
+        "entity_id": "2015/39802",
+        "nationalities": [
+            "KE"
+        ],
+        "name": "JEFWA",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-39802"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-39802/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2015-39802/images/59824248"
+            }
+        }
+    },
+    {
+        "forename": "BENJAMIN M.",
+        "date_of_birth": "1964/10/21",
+        "entity_id": "2011/48136",
+        "nationalities": [
+            "KE"
+        ],
+        "name": "KAVITI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48136"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48136/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2011-48136/images/55855829"
+            }
+        }
+    },
+    {
+        "forename": "FAHID MOHAMMED ALLY",
+        "date_of_birth": "1976/02/19",
+        "entity_id": "1999/4393",
+        "nationalities": [
+            "KE"
+        ],
+        "name": "MSALAM",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1999-4393"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1999-4393/images"
+            },
+            "thumbnail": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/1999-4393/images/52395313"
+            }
+        }
+    }
+]

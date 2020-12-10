@@ -1,0 +1,36 @@
+[
+    {
+        "forename": "DONALD",
+        "date_of_birth": "1989/10/17",
+        "entity_id": "2018/58509",
+        "nationalities": [
+            "CF"
+        ],
+        "name": "DIMASSI",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-58509"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-58509/images"
+            }
+        }
+    },
+    {
+        "forename": "EDEN JUSTICE",
+        "date_of_birth": "1982/10/06",
+        "entity_id": "2018/58499",
+        "nationalities": [
+            "CF"
+        ],
+        "name": "UCHE-NNA-ODIEGWU",
+        "_links": {
+            "self": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-58499"
+            },
+            "images": {
+                "href": "https://ws-public.interpol.int/notices/v1/red/2018-58499/images"
+            }
+        }
+    }
+]
